@@ -1,15 +1,18 @@
 ## 🧩 문제 정보
 
 - 플랫폼: PGS
-- 문제 이름: 스택
-- 링크: https://www.acmicpc.net/problem/11866
+- 문제 이름: K번째수
+- 링크: https://school.programmers.co.kr/learn/courses/30/lessons/42748
 
 ---
 
 ## 💡 문제 설명
 <!--문제에 대한 간단한 요약 (내가 이 문제를 얼마나 파악하고 있는지 확인)-->
 
-- 
+- i번째부터 j번째까지 자름
+- 자른 부분을 정렬함
+- k번째에 있는 수를 구함
+- [i,j,k]가 여러 개 들어오고 이 답들을 구해서 int 배열로 return
 
 ---
 
